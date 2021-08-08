@@ -22,11 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBRR11&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
-### Spotify Playing 🎧
 
-[<img src = "https://now-playing-codestackr.vercel.app/api/spotify-playing" alt = "Keny Ramírez Spotify Playing" width = "350" />](https://open.spotify.com/playlist/1pcT1C2UkpWChyHP6YKNsa)
-
-### Conectate conmigo:
+### Conéctate conmigo:
 
 [<img align = "left" alt = "codeSTACKr | YouTube" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][pinterest]
 [<img align = "left" alt = "codeSTACKr | Twitter" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
