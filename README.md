@@ -60,7 +60,7 @@
 
 
 
-[whatsapp]: https://api.whatsapp.com/send/?phone=51930471871&text&app_absent=0
+[whatsapp]: https://api.whatsapp.com/send/?phone=593989819919&text&app_absent=0
 [twitter]: https://twitter.com/KenyRamirez10
 [youtube]: https://youtube.com/codeSTACKr
 [Instagram]: https://www.instagram.com/ramirezkeny/
