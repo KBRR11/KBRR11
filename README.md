@@ -5,10 +5,19 @@
 
 ## ¡Soy estudiante, desarrollador y diseñador!
 
-- 🌱 Actualmente estoy aprendiendo de todo 🤣
-- 👯 Estoy buscando colaborar con otros desarrolladores
-- 🥅 Objetivos para 2021: Contribuir más a los proyectos de código abierto
-- ⚡ Team Kong
+- 🌱 Sigo aprendiendo..
+- 👯 Estoy buscando contribuir a Open Source
+- 🥅 Objetivos para 2022-2024: GDE Flutter y seguir aprendiendo nuevas tecnologías
+- ⚡ Desarrollador oficial de FRONT Ecuador🇪🇨 y Reparidores FRONT 
+
+<a href="http://onelink.to/qgrzkc" target="_blank" >
+  <img align="center" style="height:55px" src="https://frontline.la/wp-content/uploads/2021/11/cropped-front_app-1-180x180.png" />
+</a>
+  
+  <a  target="_blank" href="https://play.google.com/store/apps/details?id=com.agencialaika.repartidores&hl=es" >
+  <img align="center" style="height:55px" src="https://play-lh.googleusercontent.com/CzeC3EGvlnm-emamGDBTF-7cMHgMf34joYgG02YI7J_dEtX2WmKPpQJK_r1D5Yb_hd8=s180-rw" />
+</a>
+
 
 
 
