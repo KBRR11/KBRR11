@@ -3,7 +3,7 @@
 [![instagram](https://img.shields.io/badge/Follow%20%40ramirezkeny%20-2.K-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ramirezkeny/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KenyRamirez10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKenyRamirez10r&screen_name=KenyRamirez10)
 
-## ¡Soy estudiante, desarrollador y diseñador!
+## ¡Soy estudiante, desarrollador y diseñador y doctor del código!
 
 - 🌱 Sigo aprendiendo..
 - 👯 Estoy buscando contribuir a Open Source
