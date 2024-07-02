@@ -48,16 +48,24 @@
 [<img  alt="Quarkus" width="30px" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" />][webpage]
 [<img  alt="Java" width="30px" src="https://chuidiang.org/images/9/9a/JAVA.png" />][webpage]
 [<img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webpage]
+
+[<img  alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webpage]
+[<img  alt="Flask" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][webpage]
+[<img  alt="FastApi" width="95px" src="https://cosasdedevs.com/media/sections/images/fastapi.png" />][webpage]
+[<img  alt="Go" width="26px" src="https://w7.pngwing.com/pngs/958/424/png-transparent-golang-brands-icon-thumbnail.png" />][webpage]
+[<img  alt="NestJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />][webpage]
+
 [<img  alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webpage]
 [<img  alt="MySQL" width="26px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />][webpage]
 [<img  alt="MongoDB" width="29px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" />][webpage]
 [<img  alt="Redis" width="29px" src="https://w7.pngwing.com/pngs/230/99/png-transparent-redis-original-wordmark-logo-icon.png" />][webpage]
-[<img  alt="CouchDB" width="29px" src="https://icons-for-free.com/iconfiles/png/512/couchdb+original-1324760526925455390.png" />][webpage]
+[<img  alt="CouchDB" width="49px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" />][webpage]
+
 [<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webpage]
 [<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webpage]
 [<img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webpage]
-[<img  alt="Go" width="26px" src="https://w7.pngwing.com/pngs/958/424/png-transparent-golang-brands-icon-thumbnail.png" />][webpage]
-[<img  alt="NestJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />][webpage]
+
+[<img  alt="Langchain" width="56px" src="https://www.freecodecamp.org/news/content/images/2024/03/1700940849777.png" />][webpage]
 
 <br />
 <br />
