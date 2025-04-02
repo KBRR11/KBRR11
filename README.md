@@ -2,13 +2,11 @@
 
 [![instagram](https://img.shields.io/badge/Follow%20%40ramirezkeny%20-2.K-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ramirezkeny/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KenyRamirez10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKenyRamirez10r&screen_name=KenyRamirez10)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbrr11&label=Profile%20views&color=0e75b6&style=flat"alt="kbrr11" /> </p>
 
 ## ¡Soy estudiante, desarrollador y diseñador
 
 - 🌱 Sigo aprendiendo..
-- 👯 Estoy buscando contribuir a Open Source
-- 🥅 Objetivos para 2022-2024: GDE Flutter y seguir aprendiendo nuevas tecnologías
-
 
 
 
@@ -33,45 +31,21 @@
 <br />
 
 ### Lenguajes y herramientas:
-
-[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webpage]
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webpage]
-[<img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webpage]
-[<img  alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webpage]
-[<img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webpage]
-[<img  alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][webpage]
-[<img alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webpage]
-[<img alt="Firebase" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" />][webpage]
-[<img  alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][webpage]
-[<img  alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][webpage]
-[<img  alt="Ionic" width="45px" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" />][webpage]
-[<img  alt="Quarkus" width="30px" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" />][webpage]
-[<img  alt="Java" width="30px" src="https://chuidiang.org/images/9/9a/JAVA.png" />][webpage]
-[<img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webpage]
-
-[<img  alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webpage]
-[<img  alt="Flask" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][webpage]
-[<img  alt="FastApi" width="95px" src="https://cosasdedevs.com/media/sections/images/fastapi.png" />][webpage]
-[<img  alt="Go" width="26px" src="https://w7.pngwing.com/pngs/958/424/png-transparent-golang-brands-icon-thumbnail.png" />][webpage]
-[<img  alt="NestJs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />][webpage]
-
-[<img  alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webpage]
-[<img  alt="MySQL" width="26px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />][webpage]
-[<img  alt="MongoDB" width="29px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-Transparent.png" />][webpage]
-[<img  alt="Redis" width="29px" src="https://w7.pngwing.com/pngs/230/99/png-transparent-redis-original-wordmark-logo-icon.png" />][webpage]
-[<img  alt="CouchDB" width="49px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_couchdb_logo_icon_168621.png" />][webpage]
-
-[<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webpage]
-[<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webpage]
-[<img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webpage]
-
-[<img  alt="Langchain" width="56px" src="https://www.freecodecamp.org/news/content/images/2024/03/1700940849777.png" />][webpage]
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,golang" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,astro,flutter,kotlin,swift,next" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,jest,spring,flask,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,git,docker,kubernetes,nginx,redhat,rabbitmq,githubactions,grafana" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,dynamodb,mongo,sequelize,supabase,redis,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,postman,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,heroku,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" /><br>
+</div>
 
 <br />
 <br />
-
-
-
 
 [whatsapp]: https://api.whatsapp.com/send?phone=+593989819919&text=Hola%20Keny,%20vi%20tu%20perfil%20de%20GitHub,%20necesito%20de%20tu%20ayuda.
 [twitter]: https://twitter.com/KenyRamirez10
