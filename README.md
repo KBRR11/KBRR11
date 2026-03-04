@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui" /><br>
     <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,golang" /><br>
     <img src="https://skillicons.dev/icons?i=angular,astro,flutter,kotlin,swift,next" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,jest,spring,flask,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,jest,spring,flask,fastapi,django" /><br>
     <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,git,docker,kubernetes,nginx,redhat,rabbitmq,githubactions,grafana" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,dynamodb,mongo,sequelize,supabase,redis,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,postman,powershell" /><br>
